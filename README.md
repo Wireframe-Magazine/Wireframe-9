@@ -1,4 +1,4 @@
-# Wireframe-7
+# Wireframe-9
 Wireframe magazine code, project assets, and more
 
 This code example is taken from Wireframe #9 Source Code: Space Invaders' disintegrating shields, pages 32-33, by Andrew Gillett.
